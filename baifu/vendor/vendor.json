@@ -1,0 +1,85 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "8GBMmCx7zQ10BS+exB1nifhZqL4=",
+			"path": "github.com/ideazxy/iso8583",
+			"revision": "d06dcb8f1fc4709f1aa92db0d685076700fee6c1",
+			"revisionTime": "2016-03-17T06:09:25Z"
+		},
+		{
+			"checksumSHA1": "X7g98YfLr+zM7aN76AZvAfpZyfk=",
+			"path": "github.com/julienschmidt/httprouter",
+			"revision": "adbc77eec0d91467376ca515bc3a14b8434d0f18",
+			"revisionTime": "2018-04-11T15:45:01Z"
+		},
+		{
+			"checksumSHA1": "YyqzPv0/nujO5bYM7V0QHF0ecMM=",
+			"path": "github.com/lestrrat/go-apache-logformat",
+			"revision": "6f985a3bd8f5dc22fb10924ea0627d9aaf031dbd",
+			"revisionTime": "2018-02-20T11:39:29Z"
+		},
+		{
+			"checksumSHA1": "0LSjxZppSdBr3qF4mmlEYyPPjmQ=",
+			"path": "github.com/lestrrat/go-apache-logformat/internal/httputil",
+			"revision": "6f985a3bd8f5dc22fb10924ea0627d9aaf031dbd",
+			"revisionTime": "2018-02-20T11:39:29Z"
+		},
+		{
+			"checksumSHA1": "TB9TJpbJ5Q6f2HaNNokrY9CYGiE=",
+			"path": "github.com/lestrrat/go-apache-logformat/internal/logctx",
+			"revision": "6f985a3bd8f5dc22fb10924ea0627d9aaf031dbd",
+			"revisionTime": "2018-02-20T11:39:29Z"
+		},
+		{
+			"checksumSHA1": "D5jVUTl7HrJrdH95IxfLeSZifKQ=",
+			"path": "github.com/lestrrat/go-file-rotatelogs",
+			"revision": "d3151e2a480fdcd05fb97102f5310a47d96274c4",
+			"revisionTime": "2018-02-23T00:06:17Z"
+		},
+		{
+			"checksumSHA1": "VFdd7/gnXSPEQqUMSI9ufakRMnI=",
+			"path": "github.com/lestrrat/go-strftime",
+			"revision": "ba3bf9c1d0421aa146564a632931730344f1f9f1",
+			"revisionTime": "2018-02-20T04:22:22Z"
+		},
+		{
+			"checksumSHA1": "BoXdUBWB8UnSlFlbnuTQaPqfCGk=",
+			"path": "github.com/op/go-logging",
+			"revision": "970db520ece77730c7e4724c61121037378659d9",
+			"revisionTime": "2016-03-15T20:05:05Z"
+		},
+		{
+			"checksumSHA1": "As1PSFJop3xi3W8tAYSm/8YesAQ=",
+			"path": "github.com/pborman/uuid",
+			"revision": "c65b2f87fee37d1c7854c9164a450713c28d50cd",
+			"revisionTime": "2018-01-22T19:00:07Z"
+		},
+		{
+			"checksumSHA1": "DTy0iJ2w5C+FDsN9EnzfhNmvS+o=",
+			"path": "github.com/pkg/errors",
+			"revision": "059132a15dd08d6704c67711dae0cf35ab991756",
+			"revisionTime": "2018-10-23T23:59:46Z"
+		},
+		{
+			"checksumSHA1": "92dUWJPlL97eTKBNibbY8vPVxWY=",
+			"path": "github.com/rs/cors",
+			"revision": "12972ae4e7775151d0d53aaad277be85133ce445",
+			"revisionTime": "2018-04-17T22:52:04Z"
+		},
+		{
+			"checksumSHA1": "PJqmPFG6nQasD3BvyrbpY5MuO0M=",
+			"path": "hemayun/mix",
+			"revision": "bd7076fe8782e64cac14f63e926880e753ff5f37",
+			"revisionTime": "2018-04-04T03:51:33Z"
+		},
+		{
+			"checksumSHA1": "1rrLkO3eI2ZiAB8KhjVXV+fbSLE=",
+			"path": "hemayun/mix/log",
+			"revision": "bd7076fe8782e64cac14f63e926880e753ff5f37",
+			"revisionTime": "2018-04-04T03:51:33Z"
+		}
+	],
+	"rootPath": "git.wosai-inc.com/qa/cronosin"
+}
